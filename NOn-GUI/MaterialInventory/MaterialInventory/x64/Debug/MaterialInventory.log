@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\MaterialInventory\MaterialInventory\Main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\MaterialInventory\MaterialInventory\Main.cpp(12,2): warning C4551: function call missing argument list
+C:\MaterialInventory\MaterialInventory\Process.h(341): warning C4715: 'Check_Same_IDStaff': not all control paths return a value
+C:\MaterialInventory\MaterialInventory\Process.h(659): warning C4715: 'Check_Same_ID_Staff': not all control paths return a value
+  MaterialInventory.vcxproj -> C:\MaterialInventory\x64\Debug\MaterialInventory.exe

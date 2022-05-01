@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\MaterialInventory\MaterialInventory\Sub.h(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\MaterialInventory\MaterialInventory\Sub.h(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\MaterialInventory\MaterialInventory\Process.h(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\MaterialInventory\MaterialInventory\Main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MaterialInventory.vcxproj -> C:\MaterialInventory\Debug\MaterialInventory.exe
